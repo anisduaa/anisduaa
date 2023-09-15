@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Duaa Anis!
-<img align="right" alt="Profile Image" width="200px" src="https://avatars.githubusercontent.com/u/100033020?s=400&u=a8009e66bd8bf382da1f9d62b592990162edf623&v=4" />
+<img align="right" alt="Profile Image" width="80px"height="80px" src="https://avatars.githubusercontent.com/u/100033020?s=400&u=a8009e66bd8bf382da1f9d62b592990162edf623&v=4" />
 
 <!--
 **anisduaa/anisduaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
