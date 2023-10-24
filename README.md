@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Duaa Anis!
-<img align="right" alt="Profile Image" width="80px" height="80px" src="" />
+
 
 
 
