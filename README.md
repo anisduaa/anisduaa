@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### About Me 
-As a versatile and dedicated Mobile Developer, I specialize in a diverse range of technical skills that include AI, web development, Flutter, and 3D design.
+As a versatile and dedicated Mobile Developer, I specialize in a diverse range of technical skills that include Mobile Developer | Python | Full Stack Developer | IOS & Android.
 
 ### 📊 Status
 
