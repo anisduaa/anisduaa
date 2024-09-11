@@ -44,7 +44,7 @@ As a versatile and dedicated Mobile Developer, I specialize in a diverse range o
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 ### 📈 Top Languages
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisduaa&layout=compact&theme=gruvbox" alt="Top Languages" />
 </div>
 #
