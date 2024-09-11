@@ -30,44 +30,6 @@ Here are some ideas to get you started:
 </div>
 </div>
 
----
-
-### 🔭 I’m currently working on:
-- Mobile App Development with Flutter & React Native
-- Backend API integration using Python & Flask
-
-### 🌱 I’m currently learning:
-- Advanced Python for AI and Machine Learning
-- Full-stack development with React and Node.js
-
-### 👯 I’m looking to collaborate on:
-- Open-source Mobile App projects
-- Backend API development with Python/Flask
-
-### 💬 Ask me about:
-- Mobile Development (iOS & Android)
-- Full-stack Development
-- Python and Backend APIs
-
-### 📫 How to reach me:
-- **Email:** anisduaa@example.com
-- **LinkedIn:** [Duaa Anis](https://linkedin.com/in/duaaanis)
-
-### 😄 Pronouns:
-- She/Her
-
-### ⚡ Fun fact:
-I love exploring the latest tech trends and am passionate about making mobile applications with great user experiences!
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anisduaa&show_icons=true&theme=gruvbox" alt="Duaa's GitHub Stats" />
-</div>
-
----
-
 ### 🚀 GitHub Streak
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisduaa&theme=gruvbox" alt="Duaa's GitHub Streak" />
@@ -86,4 +48,16 @@ I love exploring the latest tech trends and am passionate about making mobile ap
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisduaa&layout=compact&theme=gruvbox" alt="Top Languages" />
 </div>
+
+### 🔭 I’m currently working on:                                   ### 🌱 I’m currently learning:                            ### 👯 I’m looking to collaborate on:             ### 💬 Ask me about:
+- Mobile App Development with Flutter & React Native                - Advanced Python for AI and Machine Learning             - Open-source Mobile App projects                 - Mobile Development (iOS & Android)
+- Backend API integration using Python & Flask                      - Full-stack development with React and Node.js           - Backend API development with Python/Flask       - Full-stack Development
+                                                                                                                                                                                - Full-stack Development
+                                                                                                                                                                                 - Python and Backend APIs
+### 📫 How to reach me:                                                        ### ⚡ Fun fact:
+- **Email:** anisduaa10@gmail.com                                              I love exploring the latest tech trends and am passionate about making mobile applications with great user experiences!
+- **LinkedIn:** [Duaa Anis](https://www.linkedin.com/in/duaa-anis12/)        
+
+
+---
 
