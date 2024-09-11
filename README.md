@@ -40,11 +40,11 @@ As a versatile and dedicated Mobile Developer, I specialize in a diverse range o
 
 ### 📊 Status
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisduaa&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-### 📈 Top Languages
-<div align="left">
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisduaa&show_icons=true&theme=gruvbox)      ### 📈 Top Languages
+<div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisduaa&layout=compact&theme=gruvbox" alt="Top Languages" />
 </div>
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 #
